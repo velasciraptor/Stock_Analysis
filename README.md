@@ -21,7 +21,7 @@ In this code we can see there is a nested loop. The loop that searches through t
 
 In the refactored code, the loops are separated. We can see that arrays are created for the volume and the two prices needed to find the return. So, instead of running through the process 12 times to get the result of each company, the code runs them all simultaneously making for faster, smarter code.
 
-##Summary
+## Summary
 
 ### Advantages or disadvantages of refactoring code:
 - Advantage: Refactoring a code can help it run faster than before. 
